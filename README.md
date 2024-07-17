@@ -15,7 +15,6 @@ My Raspberry Pi configuration:
    is from Elecrow
 
 This is part of an AOSP and AAOS Meetup project: look there for full instructions
-to build: <https://aospandaaos.github.io/device-rpi.html>
-
+to build: <https://aospandaaos.github.io/device-rpi4.html>
 
 
